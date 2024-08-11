@@ -9,7 +9,7 @@ def eh_palindromo(string):
     else: 
         return False
 
-
+#currently not working
 
     
     
